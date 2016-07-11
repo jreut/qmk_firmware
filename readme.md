@@ -1,3 +1,6 @@
+_This is my personal fork of this firmware. I use this for my Planck keyboard.
+You can find my keymap at `keyboards/planck/keymaps/jreut/keymap.c`_
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Build Status](https://travis-ci.org/jackhumbert/qmk_firmware.svg?branch=master)](https://travis-ci.org/jackhumbert/qmk_firmware)
